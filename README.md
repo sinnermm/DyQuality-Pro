@@ -1,4 +1,5 @@
 # 抖音画质选择 Pro (DyQuality Pro) - LSPosed 模块
+> **与 DyQuality 0.1 的关系**：本项目是 [DyQuality](https://github.com/sinnermm/DyQuality)（0.1 实验原型）的重构版，包名沿用 `dev.operit.dyquality`，请勿同时启用两个模块。
 
 ## 项目概述
 本模块专为抖音（`com.ss.android.ugc.aweme`）开发，解决官方 ABR 自动码率算法偏向低清晰度、画面压缩模糊的问题。支持用户自主选择 **1K (1080P)**、**2K (1440P)** 与 **原画品质（最高分辨率·满血码率）**，并在追求极致高画质、高码率的同时，彻底杜绝起播卡顿与黑屏问题。
