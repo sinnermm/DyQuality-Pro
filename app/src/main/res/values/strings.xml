@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">抖音画质选择 Pro</string>
+    <string name="description">支持1K/2K/满血原画画质选择，预加载对齐防卡顿，畅享极致高码率视听体验。</string>
+    <string-array name="xposed_scope">
+        <item>com.ss.android.ugc.aweme</item>
+    </string-array>
+</resources>
